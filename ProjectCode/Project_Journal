@@ -1,0 +1,120 @@
+Tuesday 4/26/2022: OVerview: I started coding the project. I decided to make an Evite website. I received feedback from peer review for my UML diagram and incorporated the changes
+		I created the classes according to my UML diagram
+		I started thinking about what how different classes interact with each other and how to code it
+		
+		
+		(120 minutes Coding Session):
+		I created all 10 classes for the website
+			This includes the two inheritance hierarchies
+			3 enums 
+			1 interface
+		I copied the UI, UIConsole, and Helper classes from previous assignments and made them into a package in this project
+		I also made the basic methods for all 10 classes.
+		At this point, I have finished setting up my classes and I am ready for the next step. 
+		
+		
+	For Next Time: Start working on the Menu and making it run
+		Think about how to code each option of the menu
+		Use the login, logout, and password codes we used for class
+		Start coding the User classes as well
+******************************************************************************************************************************
+		
+		
+
+Thursday 4/28/2022: I started creating my SampleProgram class.
+		I established the menu options from Menu enum with a switch statement
+		I also created most of the methods for each option in the menu
+		
+		(90 minutes Coding Session):
+		I created the menu for the website. Now I can run the program
+		I also created another class to read user file and methods that can retrieve and save user file
+		I took a lot of codes from lecture for the login and logout methods. 
+		I also took some code for retrieving and saving user data
+		
+		
+	For Next Time: I need to start working on the PartyType enum.
+		I think I need to create another switch statement for the PartyType enum
+		Need to find a way for users to chose what kind of parties they would like to make
+******************************************************************************************************************************
+
+
+
+Monday 5/2/2022: I worked more on my SampleProgram. Now my code runs
+		I started writing a file that can read the existing party Evites that the user created
+		I also created a menu that allows users to make party evites
+		
+		(90 minutes coding session)
+		I made a main method, which allows my code to run now
+		I checked out the basic options for the menu. Although there are many errors, users can login now
+		I started working on the option which allows user to read through their existing files.
+		
+	
+	For Next Time: I need to finish the existingEvite() method
+		I want to finish making the method that allows users to read their existing files
+		I also want to fix my current errors
+******************************************************************************************************************************
+		
+		
+
+Tuesday 5/3/2022: I furnished my SampleProgram and made a file that can save user data
+		I finished the code that saves user data, now everytime someone makes an account, their data will be saved
+		I also started creating a map that maps user to parties
+		
+		(90 minute coding session)
+		Other than saving user data, my code now also asks users for their party info when they are making an Evite
+		I also modified my LoadUserData so that the parseData method now works
+		I think at this point, I have finished my LoadUserData class
+		
+		
+	For Next Time: I want to finish my PremUser and NormUser Class
+		I want to make sure that they are different enough
+		I also have to find a way to create a file that saves user's Evites
+******************************************************************************************************************************
+
+
+
+Thursday 5/5/2022: I found a way to save user's Evites
+		I wrote the code on how to save user's Evites
+		I utilized what we did in lecture to help me accomplish this
+		
+		(120 minute coding session)
+		I figured out how to save user's Evites to a file, which is an important aspect of this project
+		I also updated my NormEvite and PremEvite
+		I also made changes to my NormUser and PremUser
+		
+	For Next Time: Finish saving Evite to a file
+		I am going to finish the method that saves user's Evite to a file
+		I am also going to start working on the guest list
+******************************************************************************************************************************
+
+
+
+Friday 5/6/2022: I finished the Envelope and Evite file
+		I finished the code that helps the users make Envelope 
+		I also finished making the Evite file
+		
+		(120 minute coding session)
+		I have created a file that saves user's Evite 
+		I also used a switch statement for the Envelope enum and the users can now make Envelopes
+		
+	For Next Time: Finish guest list and make sure my code runs!
+		The last thing I need to do is to finish my guest list
+		I also need to make sure my code runs
+******************************************************************************************************************************
+
+
+
+Saturday 5/7/2022: I finished the project!
+		I wrote the guest list code 
+		My program also runs fully now
+		
+		(5 hour coding session)
+		My program now allows users to make a guest list and it stores it in the Evite file
+		The program also now runs fully which means I have completed the project!
+		
+
+		
+		
+		
+		
+		
